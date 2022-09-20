@@ -1,0 +1,13 @@
+Visualization Types in Power BI ..
+
+1. Area Charts
+
+In Power BI, The basic area Chart is based on the line charts with the area between axis and the line filled in.
+
+Area Charts emphasize the magnitude of the change over time and can be used to draw attention to the overall total value across a trend line.
+
+When do you use an Area chart?
+=to see and compare the volume trend across a time series.
+
+=for an individual series representing a physically countable set.
+
