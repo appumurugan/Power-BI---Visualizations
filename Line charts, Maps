@@ -1,0 +1,42 @@
+Visualization Types in Power BI
+
+
+
+Line Charts
+
+
+
+Line charts emphasize the overall shape of an entire series of values, usually over time.
+
+
+
+Basic Map
+
+
+
+Use a basic map to associate both categorical and quantitative information with spatial locations.
+
+
+
+Filled Map
+
+
+
+A filled map uses shading or tinting or patterns to display how a value differs in proportion across a geography or region. 
+
+
+
+Quickly display these relative differences with shading that ranges from light (less-frequent/lower) to dark (more-frequent/more).
+
+
+
+Shape Map
+
+
+
+Shape maps compare regions on a map using color. A shape map can't show precise geographical locations of data points on a map. 
+
+
+
+Instead, its main purpose is to show relative comparisons of regions on a map by coloring them differently.
+
