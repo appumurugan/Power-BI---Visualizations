@@ -1,0 +1,65 @@
+Visualization types in Power BI
+
+
+
+Pie Charts
+
+
+
+Pie charts show the relationship of parts to a whole.
+
+
+
+
+
+Ribbon Charts
+
+
+
+Ribbon charts show which data category has the highest rank (largest value). 
+
+
+
+Ribbon charts are effective at showing rank change, with the highest range (value) always displayed on top for each time period.
+
+
+
+
+
+TreeMaps
+
+
+
+Treemaps are charts of colored rectangles, with size representing value. They can be hierarchical, with rectangles nested within the main rectangles. 
+
+
+
+The space inside each rectangle is allocated based on the value being measured. And the rectangles are arranged in size from top left (largest) to bottom right (smallest).
+
+
+
+Treemaps are a great choice:
+
+
+
+*To display large amounts of hierarchical data.
+
+
+
+*When a bar chart can't effectively handle the large number of values.
+
+
+
+*To show the proportions between each part and the whole.
+
+
+
+*To show the pattern of the distribution of the measure across each level of categories in the hierarchy.
+
+
+
+*To show attributes using size and color coding.
+
+
+
+*To spot patterns, outliers, most-important contributors, and exceptions.
