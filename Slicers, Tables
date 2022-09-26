@@ -1,0 +1,29 @@
+Slicers
+
+A slicer is a standalone chart that can be used to filter the other visuals on the page.
+
+Slicers come in many different formats (category, range, date, etc.) and can be formatted to allow selection of only one, many, or all of the available values.
+
+Slicers are a great choice to:
+
+* Display commonly used or important filters on the report canvas for easier access.
+
+* Make it easier to see the current filtered state without having to open a drop-down list.
+
+* Filter by columns that are unneeded and hidden in the data tables.
+
+* Create more focused reports by putting slicers next to important visuals.
+
+
+Tables
+
+A table is a grid that contains related data in a logical series of rows and columns. It may also contain headers and a row for totals.
+
+Tables work well with quantitative comparisons where you are looking at many values for a single category. For example, this table displays five different measures for Category.
+
+Tables are a great choice:
+
+*To see and compare detailed data and exact values (instead of visual representations).
+
+* To display data in a tabular format.
+To display numerical data by categories.
