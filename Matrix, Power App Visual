@@ -1,0 +1,35 @@
+Visualization Types in Power BI
+
+
+
+Matrix
+
+
+
+The matrix visual is a type of table visual (see Tables in this article) that supports a stepped layout. A table supports two dimensions, but a matrix makes it easier to display data meaningfully across multiple dimensions. 
+
+
+
+Often, report designers include matrixes in reports and dashboards to allow users to select one or more element (rows, columns, cells) in the matrix to cross-highlight other visuals on a report page.
+
+
+
+
+
+Power App Visual
+
+
+
+Report designers can create a Power App and embed it into a Power BI report as a visual. 
+
+
+
+Consumers can interact with that visual within the Power BI report.
+
+
+
+Q and A Visual
+
+
+
+Similar to the Q&A experience on dashboards, the Q&A visual lets you ask questions about your data using natural language.
